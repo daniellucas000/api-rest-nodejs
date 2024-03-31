@@ -22,12 +22,13 @@
     "@types/supertest": "^6.0.2",
     "eslint": "^8.57.0",
     "install": "^0.13.0",
+    "sqlite3": "^5.1.7",
     "supertest": "^6.3.4",
+    "ts-node": "^10.9.2",
     "tsup": "^8.0.2",
     "tsx": "^4.7.1",
     "typescript": "^5.4.3",
-    "vitest": "^1.4.0",
-    "sqlite3": "^5.1.7"
+    "vitest": "^1.4.0"
   },
   "dependencies": {
     "@fastify/cookie": "^9.3.1",
